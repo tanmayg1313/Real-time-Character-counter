@@ -34,7 +34,7 @@ Real-time Char counter/
 
 ## Screenshot
 
-Screenshot.png
+![Screenshot](Screenshot.png)
 
 ## Contributing
 
